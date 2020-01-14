@@ -5,8 +5,6 @@
 	"unity": "2018.1",
 	"author": "Irfanraza",
 	"description": "Editor tool for injecting dependency.",
-	"dependencies": {
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/MirzaIrfanraza/DependencyInjectorEditorTool.git"
