@@ -1,12 +1,1 @@
-{
-	"name": "com.irfanraza.dependencyinjection",
-	"displayName": "Dependency Injection Editor Tool.",
-	"version": "1.0.0",
-	"unity": "2018.1",
-	"author": "Irfanraza",
-	"description": "Editor tool for injecting dependency.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/MirzaIrfanraza/DependencyInjectorEditorTool.git"
-	}
-}
+{"name":"com.irfanraza.dependencyinjection","displayName":"Dependency Injection Editor Tool.","description":"Editor tool for injecting dependency.","keywords":[],"version":"1.0.0","unity":"2018.1","author":{"name":"Irfanraza","email":"mirzairfanraza@gmail.com","url":"mirzairfanraza@gmail.com"},"repository":{"type":"git","url":"https://github.com/MirzaIrfanraza/DependencyInjectorEditorTool.git"}}
